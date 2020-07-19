@@ -32,7 +32,7 @@ Run image:
 
 Navigate to http://localhost:5000 or curl http://localhost:5000
 
-Hosted example located here: http://datewebapp.inmy.coffee
+Hosted example located here: http://inmy.coffee:5000
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
