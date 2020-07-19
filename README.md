@@ -24,13 +24,15 @@ Clone project and cd to webapp directory
 
 Build image:
 
-```docker build --tag DateWebApp .```
+```docker build --tag datewebapp .```
 
 Run image:
 
-```docker run --restart=always --name=datewebapp -d -p 5000:5000 DateWebApp```
+```docker run --restart=always --name=datewebapp -d -p 5000:5000 datewebapp```
 
 Navigate to http://localhost:5000 or curl http://localhost:5000
+
+Hosted example located here: http://datewebapp.inmy.coffee
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
