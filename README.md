@@ -20,7 +20,7 @@ This is a simple web app that returns the current **UTC date and time** as a jso
 
 ### Quickstart build / run docker image
 
-Clone project and cd to webapp directory
+Clone project and cd to the DateWebApp directory
 
 Build image:
 
